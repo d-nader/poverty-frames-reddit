@@ -21,8 +21,8 @@ Users must download the data themselves using the Arctic Shift tool from January
 # DATA & FILE OVERVIEW
 
 Included files:
-* 02_analysis/analysis_notebook.ipynb – preprocessing, topic modeling and sentiment analysis
-* 03_manuscript/manuscript.pdf – term paper
+* 02_analysis/analysis_notebook.ipynb: preprocessing, topic modeling and sentiment analysis
+* 03_manuscript/manuscript.pdf: term paper
 
 Excluded:
 * All raw and processed Reddit data (not permitted to upload)
@@ -30,5 +30,6 @@ Excluded:
 # METHODOLOGICAL INFORMATION
 
 Methods: Topic modeling (LDA) and VADER sentiment analysis in Python.
+
 Software: Python 3.12.3 used in JupyterLab
 
