@@ -1,4 +1,4 @@
 .DS_Store
 .ipynb_checkpoints/
-01_data/raw/
-01_data/processed/
+01_data/raw/*.jsonl
+01_data/processed/*.jsonl
