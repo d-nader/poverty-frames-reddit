@@ -1,11 +1,12 @@
 # GENERAL INFORMATION
 
-Title of data set: Data and code for "Framing Poverty in Everyday Conversations"
+Title of data set: Data and code for "Framing Poverty in Everyday Conversations: Insights from Reddit"
+
 Description: This repository contains the code and materials used for my term paper on how poverty is framed and discussed on Reddit.
 
 Author information:
-Name: Darius Nader
-Institution: LMU Munich
+* Name: Darius Nader
+* Institution: LMU Munich
 
 Date of data collection: Jan 2023 to July 2025
 Geographic location of data collection: Reddit (mainly North America)
