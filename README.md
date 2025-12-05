@@ -14,7 +14,7 @@ Geographic location of data collection: Reddit (mainly North America)
 
 Licenses/restrictions placed on the data: Raw Reddit data cannot be shared.
 
-Data source: Posts from subreddit downloaded via Project Arctic Shift https://github.com/ArthurHeitmann/arctic_shift
+Data source: Posts from subreddit downloaded via [Project Arctic Shift](https://github.com/ArthurHeitmann/arctic_shift)
 
 Users must download the data themselves using the Arctic Shift tool from January 1, 2023 and July 31,2025.
 
