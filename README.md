@@ -9,6 +9,7 @@ Author information:
 * Institution: LMU Munich
 
 Date of data collection: Jan 2023 to July 2025
+
 Geographic location of data collection: Reddit (mainly North America)
 
 # SHARING/ACCESS DATA
@@ -26,7 +27,7 @@ Included files:
 * 03_manuscript/manuscript.pdf: term paper
 
 Excluded:
-* All raw and processed Reddit data (not permitted to upload)
+* All raw and processed Reddit data (raw data needs to be downloaded seperately)
 
 # METHODOLOGICAL INFORMATION
 
